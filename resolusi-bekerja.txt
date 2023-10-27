@@ -1,3 +1,4 @@
 Resolusi selama bekerja di CITIS:
 1. Belajar Odoo
 2. Belajar Python
+3. Belajar backend
