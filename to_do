@@ -1,0 +1,4 @@
+https://dev.azure.com/kgcitis/_git/Odoo?path=/docs/dev_setup_awal.md&_a=preview
+
+Install odoo 11, ada kendala di bagian "H.install requrirements" khususnya
+pada waktu install server/requirements.txt
